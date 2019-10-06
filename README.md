@@ -18,7 +18,11 @@
 
 最好成绩为分类预测的结果，天池第一赛季排名第六。
 
-因为第二赛季为线上比赛，用不习惯线上环境，只写了baseline。
+![image](https://github.com/fee78520/tianchi_job_match/blob/master/pic/image.png)
+
+
+
+#### 因为第二赛季为线上比赛，用不习惯线上环境，只写了baseline。
 
 #### 因为事参加比赛代码，未作格式调整，未加注释，请多见谅。
 
